@@ -1,0 +1,9 @@
+{
+  "name": "array",
+  "version": "0.0.0",
+  "description": "Array",
+  "main": "app.js",
+  "author": {
+    "name": "Sachin"
+  }
+}
